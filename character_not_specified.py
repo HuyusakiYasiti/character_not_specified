@@ -15,7 +15,8 @@ while True:
 
     flag = input("Please enter a letter to countinue. :")
     flag = bool(flag)
-    if flag == True:
+
+　　　　　　　　if flag == True:
         continue
 
     break
