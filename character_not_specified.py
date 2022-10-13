@@ -4,7 +4,6 @@ letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n',
 
 chosen = str()
 flag = str()
-response = str()
 
 while True:
     chosen = input("Please enter a letter. : ")
